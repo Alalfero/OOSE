@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraybasierteListen/ArraybasierteListen.iml" filepath="$PROJECT_DIR$/ArraybasierteListen/ArraybasierteListen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EinKlassikerConwaysSpieldesLebens/EinKlassikerConwaysSpieldesLebens.iml" filepath="$PROJECT_DIR$/EinKlassikerConwaysSpieldesLebens/EinKlassikerConwaysSpieldesLebens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EndrekursionalsIteration/EndrekursionalsIteration.iml" filepath="$PROJECT_DIR$/EndrekursionalsIteration/EndrekursionalsIteration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ErstiSemester.iml" filepath="$PROJECT_DIR$/ErstiSemester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Euklid/Euklid.iml" filepath="$PROJECT_DIR$/Euklid/Euklid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonacciEndrekursiv/FibonacciEndrekursiv.iml" filepath="$PROJECT_DIR$/FibonacciEndrekursiv/FibonacciEndrekursiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunGraph/FunGraph.iml" filepath="$PROJECT_DIR$/FunGraph/FunGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeometricObject/GeometricObject.iml" filepath="$PROJECT_DIR$/GeometricObject/GeometricObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heronverfahren/Heronverfahren.iml" filepath="$PROJECT_DIR$/Heronverfahren/Heronverfahren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Match/Match.iml" filepath="$PROJECT_DIR$/Match/Match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoreSimpleArrayFuns/MoreSimpleArrayFuns.iml" filepath="$PROJECT_DIR$/MoreSimpleArrayFuns/MoreSimpleArrayFuns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polynomgraphen/Polynomgraphen.iml" filepath="$PROJECT_DIR$/Polynomgraphen/Polynomgraphen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ratio/Ratio.iml" filepath="$PROJECT_DIR$/Ratio/Ratio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecordDecimalTime/RecordDecimalTime.iml" filepath="$PROJECT_DIR$/RecordDecimalTime/RecordDecimalTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RekursiveFunktionen/RekursiveFunktionen.iml" filepath="$PROJECT_DIR$/RekursiveFunktionen/RekursiveFunktionen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleArrayFuns/SimpleArrayFuns.iml" filepath="$PROJECT_DIR$/SimpleArrayFuns/SimpleArrayFuns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WochentageundMuttertage/WochentageundMuttertage.iml" filepath="$PROJECT_DIR$/WochentageundMuttertage/WochentageundMuttertage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zahlendarstellungen/Zahlendarstellungen.iml" filepath="$PROJECT_DIR$/Zahlendarstellungen/Zahlendarstellungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equalsaufVertex/equalsaufVertex.iml" filepath="$PROJECT_DIR$/equalsaufVertex/equalsaufVertex.iml" />
+    </modules>
+  </component>
+</project>
